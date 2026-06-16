@@ -18,8 +18,7 @@ I am a professional Flutter mobile app developer from Pakistan, specializing in 
 - **Frameworks:** Flutter
 - **Databases:** SQLite, Shared Preferences
 - **Networking:** REST APIs, Http / Dio
-- **Version Control & IDEs:** Git, GitHub, VS Code, Android Studio
-
+- **Version Control & IDEs:** Version Control & DevOps: Git, GitHub, GitHub Actions (CI/CD), VS Code, Android Studio
 ---
 
 ### 🔹 Languages
